@@ -1,5 +1,4 @@
-# PhpYonetimPaneli
-PHP ile Yönetim Paneli Yapımı
+# PHP ile Yönetim Paneli Yapımı
 
 Mehmet Selçuk Batal Youtube adresinde bulunan PHP ile Sıfırdan Yönetim Panelli Web Sitesi Yapımı konulu eğitim videosunun (https://youtu.be/mtetqOabBI0) Başlangıç ve Bitiş dosyalarını burada bulabilirsiniz.
 
